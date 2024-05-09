@@ -1,0 +1,3 @@
+/home/ymm/RTM/RTM_INFERENCE/build/CMakeFiles/rebuild_cache.dir
+/home/ymm/RTM/RTM_INFERENCE/build/CMakeFiles/edit_cache.dir
+/home/ymm/RTM/RTM_INFERENCE/build/CMakeFiles/rtmpose_ort.dir
